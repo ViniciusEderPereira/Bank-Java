@@ -1,10 +1,11 @@
 package com.bank.study;
 
+import com.bank.model.Conta;
+
+import java.util.Scanner;
+
 public class TestMain {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
-	}
 
 }

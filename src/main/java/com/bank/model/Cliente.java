@@ -1,6 +1,13 @@
 package com.bank.model;
 
-public class Cliente {
+public class Cliente extends Pessoa {
 
-	private String cpf;
+
+
+	public Cliente(String nome, String cpf, String email){
+		super(nome, cpf, email);
+
+	}
+
+
 }
